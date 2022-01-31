@@ -1,0 +1,576 @@
+commit bc767612dadaa967ea26fd79c5a0204eff948535
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:27:16 2022 +0100
+
+    Przeniesienie 3 refrenu
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 818e017..469c8f3 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -5,27 +5,4 @@ zwrotka-3.txt
+ zwrotka-4.txt
+ refren-2.txt
+ zwrotka-5.txt
+-'Cause if you want to keep me
+-You gotta, gotta, gotta, gotta
+-Got to love me harder
+-(I'ma love you, love you, love)
+-And if you really need me
+-You gotta, gotta, gotta, gotta
+-Got to love me harder
+-(Got to love me, baby)
+-'Cause if you want to keep me
+-You gotta, gotta, gotta, gotta
+-Got to love me harder
+-(Love me harder)
+-And if you really need me
+-You gotta, gotta, gotta, gotta (I'ma do it, do it, do it)
+-Got to love me harder
+-(I'ma love you harder, hey)
+-Ooh-ooh-ooh-ooh
+-Love me, love me, love me (love me)
+-Ooh-ooh-ooh-ooh
+-Harder, harder, harder
+-(Boy, you gotta love me, love me, baby)
+-Love me, love me, love me
+-(Just a little bit harder, harder, baby)
+-Harder, harder, harder
+\ No newline at end of file
++refren-3.txt
+\ No newline at end of file
+
+commit d2674205b5061da60d0517b9f8b3eb17db805989
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:26:11 2022 +0100
+
+    Przeniesienie 5 zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index d3dbfe5..818e017 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -4,10 +4,7 @@ refren-1.txt
+ zwrotka-3.txt
+ zwrotka-4.txt
+ refren-2.txt
+-So what do I do if I can't figure it out? (Figure it out)
+-You got to try, try, try again, yeah (whoa)
+-So what do I do if I can't figure it out? (Figure it out)
+-I'm gonna leave, leave, leave again
++zwrotka-5.txt
+ 'Cause if you want to keep me
+ You gotta, gotta, gotta, gotta
+ Got to love me harder
+
+commit 06492a4a7ce7515f933f0f85a640b98e31bc20a2
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:25:24 2022 +0100
+
+    Przeniesienie 2 refrenu
+
+diff --git a/piosenka.txt b/piosenka.txt
+index ebcbd60..d3dbfe5 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -3,22 +3,7 @@ zwrotka-2.txt
+ refren-1.txt
+ zwrotka-3.txt
+ zwrotka-4.txt
+-'Cause if you want to keep me
+-You gotta, gotta, gotta, gotta
+-Got to love me harder
+-(I'ma love you harder)
+-And if you really need me
+-You gotta, gotta, gotta, gotta
+-Got to love me harder (love me, baby, love me)
+-(Lo-love me harder)
+-Ooh-ooh-ooh-ooh
+-Love me, love me, love me
+-Ooh-ooh-ooh-ooh
+-Harder, harder, harder (oh)
+-Ooh-ooh-ooh-ooh
+-Love me, love me, love me
+-Ooh-ooh-ooh-ooh
+-Harder, harder, harder (you gotta love me harder)
++refren-2.txt
+ So what do I do if I can't figure it out? (Figure it out)
+ You got to try, try, try again, yeah (whoa)
+ So what do I do if I can't figure it out? (Figure it out)
+
+commit e3741fbb14b675b211616168f39da2eabcf8a4d0
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:24:06 2022 +0100
+
+    Przeniesienie 4 zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 2f1772e..ebcbd60 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,10 +2,7 @@ zwrotka-1.txt
+ zwrotka-2.txt
+ refren-1.txt
+ zwrotka-3.txt
+-And if in the moment you bite your lip
+-When I get you moaning, you know it's real
+-Can you feel the pressure between your hips?
+-I'll make it feel like the first time
++zwrotka-4.txt
+ 'Cause if you want to keep me
+ You gotta, gotta, gotta, gotta
+ Got to love me harder
+
+commit 5703db19a9af37e425b7367b1df311cc4210001f
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:23:00 2022 +0100
+
+    Przeniesienie 3 zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 5aa5956..2f1772e 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,10 +1,7 @@
+ zwrotka-1.txt
+ zwrotka-2.txt
+ refren-1.txt
+-I know your motives and you know mine
+-The ones that love me, I tend to leave behind
+-If you know about me and choose to stay
+-Then take this pleasure and take it with the pain
++zwrotka-3.txt
+ And if in the moment you bite your lip
+ When I get you moaning, you know it's real
+ Can you feel the pressure between your hips?
+
+commit d789c6554e3e901741a3906e8b048f2fa1c236af
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:21:37 2022 +0100
+
+    Przeniesienie 1 refrenu
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7b41b37..5aa5956 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,16 +1,6 @@
+ zwrotka-1.txt
+ zwrotka-2.txt
+-'Cause if you want to keep me
+-You gotta, gotta, gotta, gotta
+-Got to love me harder
+-And if you really need me
+-You gotta, gotta, gotta, gotta
+-Got to love me harder
+-(Lo-love me harder)
+-Ooh-ooh-ooh-ooh
+-Love me, love me, love me
+-Ooh-ooh-ooh-ooh
+-Harder, harder, harder
++refren-1.txt
+ I know your motives and you know mine
+ The ones that love me, I tend to leave behind
+ If you know about me and choose to stay
+
+commit 7e7a5bca4e8cadce578cf97a8c0ef254500fd911
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:20:17 2022 +0100
+
+    Przeniesienie 2 zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 67aa46e..7b41b37 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,8 +1,5 @@
+ zwrotka-1.txt
+-And if in the moment, I bite my lip
+-Baby, in that moment, you'll know this is
+-Something bigger than us and beyond bliss
+-Give me a reason to believe it
++zwrotka-2.txt
+ 'Cause if you want to keep me
+ You gotta, gotta, gotta, gotta
+ Got to love me harder
+
+commit b15a5dfdb37d6a9fd3cd867a550fb94b6ea01497
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:18:37 2022 +0100
+
+    Przeniesienie 1 zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index f3a5944..67aa46e 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,7 +1,4 @@
+-Tell me something I need to know
+-Then take my breath and never let it go
+-If you just let me invade your space
+-I'll take the pleasure, take it with the pain
++zwrotka-1.txt
+ And if in the moment, I bite my lip
+ Baby, in that moment, you'll know this is
+ Something bigger than us and beyond bliss
+
+commit 9d132ef86524168e0dbbd992eba6aa0993dbf98f
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:15:02 2022 +0100
+
+    Dodanie treści piosenki
+
+diff --git a/piosenka.txt b/piosenka.txt
+new file mode 100644
+index 0000000..f3a5944
+--- /dev/null
++++ b/piosenka.txt
+@@ -0,0 +1,71 @@
++Tell me something I need to know
++Then take my breath and never let it go
++If you just let me invade your space
++I'll take the pleasure, take it with the pain
++And if in the moment, I bite my lip
++Baby, in that moment, you'll know this is
++Something bigger than us and beyond bliss
++Give me a reason to believe it
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++And if you really need me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(Lo-love me harder)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me
++Ooh-ooh-ooh-ooh
++Harder, harder, harder
++I know your motives and you know mine
++The ones that love me, I tend to leave behind
++If you know about me and choose to stay
++Then take this pleasure and take it with the pain
++And if in the moment you bite your lip
++When I get you moaning, you know it's real
++Can you feel the pressure between your hips?
++I'll make it feel like the first time
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(I'ma love you harder)
++And if you really need me
++You gotta, gotta, gotta, gotta
++Got to love me harder (love me, baby, love me)
++(Lo-love me harder)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me
++Ooh-ooh-ooh-ooh
++Harder, harder, harder (oh)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me
++Ooh-ooh-ooh-ooh
++Harder, harder, harder (you gotta love me harder)
++So what do I do if I can't figure it out? (Figure it out)
++You got to try, try, try again, yeah (whoa)
++So what do I do if I can't figure it out? (Figure it out)
++I'm gonna leave, leave, leave again
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(I'ma love you, love you, love)
++And if you really need me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(Got to love me, baby)
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(Love me harder)
++And if you really need me
++You gotta, gotta, gotta, gotta (I'ma do it, do it, do it)
++Got to love me harder
++(I'ma love you harder, hey)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me (love me)
++Ooh-ooh-ooh-ooh
++Harder, harder, harder
++(Boy, you gotta love me, love me, baby)
++Love me, love me, love me
++(Just a little bit harder, harder, baby)
++Harder, harder, harder
+\ No newline at end of file
+commit d789c6554e3e901741a3906e8b048f2fa1c236af
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:21:37 2022 +0100
+
+    Przeniesienie 1 refrenu
+
+diff --git a/refren-1.txt b/refren-1.txt
+new file mode 100644
+index 0000000..4e8eba7
+--- /dev/null
++++ b/refren-1.txt
+@@ -0,0 +1,11 @@
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++And if you really need me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(Lo-love me harder)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me
++Ooh-ooh-ooh-ooh
++Harder, harder, harder
+\ No newline at end of file
+commit 06492a4a7ce7515f933f0f85a640b98e31bc20a2
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:25:24 2022 +0100
+
+    Przeniesienie 2 refrenu
+
+diff --git a/refren-2.txt b/refren-2.txt
+new file mode 100644
+index 0000000..fcfbbfb
+--- /dev/null
++++ b/refren-2.txt
+@@ -0,0 +1,16 @@
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(I'ma love you harder)
++And if you really need me
++You gotta, gotta, gotta, gotta
++Got to love me harder (love me, baby, love me)
++(Lo-love me harder)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me
++Ooh-ooh-ooh-ooh
++Harder, harder, harder (oh)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me
++Ooh-ooh-ooh-ooh
++Harder, harder, harder (you gotta love me harder)
+\ No newline at end of file
+commit c134a99c41c3850fb34e2723abe08ca0c77583ab
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:29:09 2022 +0100
+
+    Revert "Usunięcie linijki z 3 refrenu"
+    
+    This reverts commit 11cee189a41c4f14cc78ccd547e2084f384144bd.
+
+diff --git a/refren-3.txt b/refren-3.txt
+index e5eaed2..b250bc6 100644
+--- a/refren-3.txt
++++ b/refren-3.txt
+@@ -1,3 +1,4 @@
++'Cause if you want to keep me
+ You gotta, gotta, gotta, gotta
+ Got to love me harder
+ (I'ma love you, love you, love)
+
+commit 11cee189a41c4f14cc78ccd547e2084f384144bd
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:28:28 2022 +0100
+
+    Usunięcie linijki z 3 refrenu
+
+diff --git a/refren-3.txt b/refren-3.txt
+index b250bc6..e5eaed2 100644
+--- a/refren-3.txt
++++ b/refren-3.txt
+@@ -1,4 +1,3 @@
+-'Cause if you want to keep me
+ You gotta, gotta, gotta, gotta
+ Got to love me harder
+ (I'ma love you, love you, love)
+
+commit bc767612dadaa967ea26fd79c5a0204eff948535
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:27:16 2022 +0100
+
+    Przeniesienie 3 refrenu
+
+diff --git a/refren-3.txt b/refren-3.txt
+new file mode 100644
+index 0000000..b250bc6
+--- /dev/null
++++ b/refren-3.txt
+@@ -0,0 +1,24 @@
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(I'ma love you, love you, love)
++And if you really need me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(Got to love me, baby)
++'Cause if you want to keep me
++You gotta, gotta, gotta, gotta
++Got to love me harder
++(Love me harder)
++And if you really need me
++You gotta, gotta, gotta, gotta (I'ma do it, do it, do it)
++Got to love me harder
++(I'ma love you harder, hey)
++Ooh-ooh-ooh-ooh
++Love me, love me, love me (love me)
++Ooh-ooh-ooh-ooh
++Harder, harder, harder
++(Boy, you gotta love me, love me, baby)
++Love me, love me, love me
++(Just a little bit harder, harder, baby)
++Harder, harder, harder
+\ No newline at end of file
+commit b15a5dfdb37d6a9fd3cd867a550fb94b6ea01497
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:18:37 2022 +0100
+
+    Przeniesienie 1 zwrotki
+
+diff --git a/zwrotka-1.txt b/zwrotka-1.txt
+new file mode 100644
+index 0000000..47e036e
+--- /dev/null
++++ b/zwrotka-1.txt
+@@ -0,0 +1,4 @@
++Tell me something I need to know
++Then take my breath and never let it go
++If you just let me invade your space
++I'll take the pleasure, take it with the pain
+\ No newline at end of file
+commit 7e7a5bca4e8cadce578cf97a8c0ef254500fd911
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:20:17 2022 +0100
+
+    Przeniesienie 2 zwrotki
+
+diff --git a/zwrotka-2.txt b/zwrotka-2.txt
+new file mode 100644
+index 0000000..7e9f649
+--- /dev/null
++++ b/zwrotka-2.txt
+@@ -0,0 +1,4 @@
++And if in the moment, I bite my lip
++Baby, in that moment, you'll know this is
++Something bigger than us and beyond bliss
++Give me a reason to believe it
+\ No newline at end of file
+commit 5703db19a9af37e425b7367b1df311cc4210001f
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:23:00 2022 +0100
+
+    Przeniesienie 3 zwrotki
+
+diff --git a/zwrotka-3.txt b/zwrotka-3.txt
+new file mode 100644
+index 0000000..6f4253d
+--- /dev/null
++++ b/zwrotka-3.txt
+@@ -0,0 +1,4 @@
++I know your motives and you know mine
++The ones that love me, I tend to leave behind
++If you know about me and choose to stay
++Then take this pleasure and take it with the pain
+\ No newline at end of file
+commit e3741fbb14b675b211616168f39da2eabcf8a4d0
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:24:06 2022 +0100
+
+    Przeniesienie 4 zwrotki
+
+diff --git a/zwrotka-4.txt b/zwrotka-4.txt
+new file mode 100644
+index 0000000..39ebd94
+--- /dev/null
++++ b/zwrotka-4.txt
+@@ -0,0 +1,4 @@
++And if in the moment you bite your lip
++When I get you moaning, you know it's real
++Can you feel the pressure between your hips?
++I'll make it feel like the first time
+\ No newline at end of file
+commit d2674205b5061da60d0517b9f8b3eb17db805989
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:26:11 2022 +0100
+
+    Przeniesienie 5 zwrotki
+
+diff --git a/zwrotka-5.txt b/zwrotka-5.txt
+new file mode 100644
+index 0000000..e5e543f
+--- /dev/null
++++ b/zwrotka-5.txt
+@@ -0,0 +1,4 @@
++So what do I do if I can't figure it out? (Figure it out)
++You got to try, try, try again, yeah (whoa)
++So what do I do if I can't figure it out? (Figure it out)
++I'm gonna leave, leave, leave again
+\ No newline at end of file
+commit c134a99c41c3850fb34e2723abe08ca0c77583ab
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:29:09 2022 +0100
+
+    Revert "Usunięcie linijki z 3 refrenu"
+    
+    This reverts commit 11cee189a41c4f14cc78ccd547e2084f384144bd.
+
+commit 11cee189a41c4f14cc78ccd547e2084f384144bd
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:28:28 2022 +0100
+
+    Usunięcie linijki z 3 refrenu
+
+commit bc767612dadaa967ea26fd79c5a0204eff948535
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:27:16 2022 +0100
+
+    Przeniesienie 3 refrenu
+
+commit d2674205b5061da60d0517b9f8b3eb17db805989
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:26:11 2022 +0100
+
+    Przeniesienie 5 zwrotki
+
+commit 06492a4a7ce7515f933f0f85a640b98e31bc20a2
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:25:24 2022 +0100
+
+    Przeniesienie 2 refrenu
+
+commit e3741fbb14b675b211616168f39da2eabcf8a4d0
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:24:06 2022 +0100
+
+    Przeniesienie 4 zwrotki
+
+commit 5703db19a9af37e425b7367b1df311cc4210001f
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:23:00 2022 +0100
+
+    Przeniesienie 3 zwrotki
+
+commit d789c6554e3e901741a3906e8b048f2fa1c236af
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:21:37 2022 +0100
+
+    Przeniesienie 1 refrenu
+
+commit 7e7a5bca4e8cadce578cf97a8c0ef254500fd911
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:20:17 2022 +0100
+
+    Przeniesienie 2 zwrotki
+
+commit b15a5dfdb37d6a9fd3cd867a550fb94b6ea01497
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:18:37 2022 +0100
+
+    Przeniesienie 1 zwrotki
+
+commit 9d132ef86524168e0dbbd992eba6aa0993dbf98f
+Author: KobrzAnd <andrzej.kobrzycki@orange.com>
+Date:   Thu Jan 27 19:15:02 2022 +0100
+
+    Dodanie treści piosenki
